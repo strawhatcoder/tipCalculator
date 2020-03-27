@@ -1,0 +1,48 @@
+body {
+  background-color: #1212a1;
+}
+
+.form-card {
+  margin: 30px;
+  margin-top: 150px;
+  width: 350px;
+  height: 500px;
+}
+
+.form-header, .total-head {
+  background-color: #161691;
+  color: white;
+  text-align: center;
+}
+
+.form-body, .total-body {
+  background-color: blanchedalmond;
+}
+
+button.calculate-button {
+  margin: -20px -50px;
+  margin-top: 25px;
+  position: relative;
+  left: 50%;
+  background-color: #161691 !important;
+}
+
+button.clear-button {
+  margin-left: 120px;
+  margin-right: 120px;
+  position: relative;
+  background-color: #161691 !important;
+}
+
+button.calculate-button:hover, button.clear-button:hover {
+  color: white;
+}
+
+.total-card {
+  background-color: blanchedalmond;
+  width: 350px;
+}
+
+.results {
+  text-align: center;
+}
