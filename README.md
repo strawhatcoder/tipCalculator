@@ -3,7 +3,7 @@
 
 #### Installing
 - `git clone` onto local machine
-- run `npm init`
+- run `npm init` and/or `npm install`
 - run `npm start` to start on `localhost:xxxx`
 
 #### How to Use
